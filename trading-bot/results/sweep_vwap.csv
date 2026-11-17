@@ -1,0 +1,2 @@
+lookback_period,threshold_pct,train_pf,val_pf,train_win_rate,val_win_rate,train_trades,val_trades
+10,1,0.6388668960397625,1.827257534803897,70.0,83.33333333333334,20,6

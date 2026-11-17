@@ -1,0 +1,2 @@
+rsi_period,oversold,overbought,train_pf,val_pf,train_win_rate,val_win_rate,train_trades,val_trades
+5,40,60,0.6459229963839658,0.11921691598500765,66.66666666666666,33.33333333333333,21,3

@@ -1,0 +1,8 @@
+yfinance
+pandas
+numpy
+pandas_ta
+matplotlib
+loguru
+kiteconnect
+python-dotenv

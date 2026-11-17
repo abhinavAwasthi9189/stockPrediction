@@ -1,0 +1,2 @@
+bb_period,bb_std,train_pf,val_pf,train_win_rate,val_win_rate,train_trades,val_trades
+10,1.5,0.45160492271629143,1.330430679449451,52.38095238095239,80.0,21,5
